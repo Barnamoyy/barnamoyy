@@ -10,6 +10,17 @@
 
 ---
 
+### Let's Connect 
+
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+
+
 ### Skills and Languages
 
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -28,5 +39,6 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
+#
 
 ![Barnamoyy's Stats](https://github-readme-stats.vercel.app/api?username=Barnamoyy&theme=react&show_icons=true&hide_border=true&count_private=true)
