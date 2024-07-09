@@ -1,4 +1,4 @@
-# :godmode: Welcome to My Profile! 
+# Welcome to My Profile! :godmode: 
 
 ![Retro Computer](/retroascii.png)
 
