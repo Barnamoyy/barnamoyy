@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: center; flex-direction: row; flex-wrap: nowrap;">
   <div style="margin-right: 20px;">
-    <img src="/retroascii.png" alt="Retro computer" width="50%">
+    <img src="/retroascii.png" alt="Retro computer" width="200">
   </div>
   <div>
     <pre style="background: #000; color: #0f0; padding: 10px; border-radius: 5px; font-family: monospace;">
