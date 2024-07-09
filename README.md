@@ -5,7 +5,7 @@
     <img src="/retroascii.png" alt="Retro computer" width="100%">
   </div>
   <div>
-    <pre style="background: #000; color: #0f0; padding: 10px; border-radius: 5px; font-family: monospace;">
+    <code style="background: #000; color: #0f0; padding: 10px; border-radius: 5px; font-family: monospace;">
     Name: Barnamoy Roy
     Uptime: 20 years
     Title: Digital Bob the Builder
@@ -13,7 +13,7 @@
     Host: BITS Pilani Goa Campus
     Kernel: Electrical and Communication Engineering
     IDE: VSCode 1.91.0
-    </pre>
+    </code>
   </div>
 </div>
 
