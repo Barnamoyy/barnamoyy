@@ -1,6 +1,6 @@
 # Welcome to My Profile!
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; flex-row;">
   <div style="margin-right: 20px;">
     <img src="/retroascii.png" alt="Profile Image" width="200">
   </div>
