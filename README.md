@@ -13,11 +13,8 @@
 ### Let's Connect 
 
 <img align="left" src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" href="https://barnamoy-portfolio.vercel.app/" width="50px" />
-&nbsp;&nbsp;
 <img align="left" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" href="https://www.instagram.com/barnamoyy/" width="50px" />
-&nbsp;&nbsp;
 <img align="left" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" href="https://www.instagram.com/barnamoyy/" width="50px" />
-&nbsp;&nbsp;
 <img align="left" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" href="https://www.linkedin.com/in/barnamoy-roy-535080202/" width="50px" />
 
 
