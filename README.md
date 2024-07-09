@@ -1,6 +1,6 @@
 # Welcome to My Profile!
 
-<div style="display: flex; align-items: flex-start; justify-content: center; flex-direction: row;">
+<div style="display: flex; align-items: flex-start; justify-content: center; flex-direction: row; flex-wrap: nowrap;">
   <div style="margin-right: 20px;">
     <img src="/retroascii.png" alt="Retro computer" width="50%">
   </div>
