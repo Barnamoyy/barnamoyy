@@ -1,22 +1,5 @@
 # Welcome to My Profile!
 
-<div style="display: flex; align-items: flex-start; justify-content: center; flex-direction: row; flex-wrap: nowrap;">
-  <div style="margin-right: 20px;">
-    <img src="/retroascii.png" alt="Retro computer" width="200">
-  </div>
-  <div>
-    <pre style="background: #000; color: #0f0; padding: 10px; border-radius: 5px; font-family: monospace;">
-    Name: Barnamoy Roy
-    Uptime: 20 years
-    Title: Digital Bob the Builder
-    OS: macOS
-    Host: BITS Pilani Goa Campus
-    Kernel: Electrical and Communication Engineering
-    IDE: VSCode 1.91.0
-    </pre>
-  </div>
-</div>
-
 **`Digitized Nerd (Web dev/DevOps/Machine Learning)`**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
