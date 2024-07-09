@@ -2,9 +2,7 @@
 
 **`Digitized Nerd (Web dev/DevOps/Machine Learning)`**
 
-I am a student at BITS Pilani, Goa Campus, pursuing a dual major in MSc. Physics and Electrical and Communication Engineering. My studies provide me with a strong foundation in both physics and engineering principles.
-
-Currently, I am focusing on web development and DevOps. I am gaining hands-on experience with various web technologies, building dynamic and responsive websites. Additionally, I am working with DevOps tools to streamline and automate development processes, improving efficiency and collaboration
+I am a student at BITS Pilani, Goa Campus, pursuing a dual major in MSc. Physics and Electrical and Communication Engineering. My studies provide me with a strong foundation in both physics and engineering principles. Currently, I am focusing on web development and DevOps. I am gaining hands-on experience with various web technologies, building dynamic and responsive websites. Additionally, I am working with DevOps tools to streamline and automate development processes, improving efficiency and collaboration
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
