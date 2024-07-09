@@ -28,4 +28,7 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
-          
+---
+
+![Barnamoyy's Stats](https://github-readme-stats.vercel.app/api?username=Barnamoyy&theme=react&show_icons=true&hide_border=true&count_private=true)
+![Barnamoyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barnamoyy&theme=react&show_icons=true&hide_border=true&layout=compact)
